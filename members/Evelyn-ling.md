@@ -6,7 +6,7 @@
 
 ## 我想学什么
 
-近期学完git-github-html-css,更熟练的了解和使用ai工具
+近期学完 git-github-html-css，更熟练的了解和使用ai工具
 
 ## 我想做什么
 
